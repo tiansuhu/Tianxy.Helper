@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatabaseHelper\DataBaseHelper.cs" />
     <Compile Include="Log4net\LoggerType.cs" />
     <Compile Include="Log4net\LogHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
